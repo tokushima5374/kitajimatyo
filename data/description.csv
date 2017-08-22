@@ -1,10 +1,11 @@
 label,sublabel,description,styles,bgcolor
-かん,,,img/moyasanai02.svg,#733b96
-新聞紙,,,img/shigen02.svg,#77ae1f
 燃やせるゴミ,,,img/moyasu02.svg,#ea3b13
+プラスチック,,,img/moyasu02.svg,#ea3b13
+かん,,,img/moyasanai02.svg,#733b96
 茶色のガラスびん,,,img/bin02.svg,#2dc7aa
 無色のガラスびん,,,img/bin02.svg,#2dc7aa
 他の色のガラスびん,,,img/bin02.svg,#2dc7aa
+新聞紙,,,img/shigen02.svg,#77ae1f
 段ボール,,,img/moyasanai02.svg,#733b96
 雑誌,,,img/moyasanai02.svg,#733b96
 われもの,,,img/moyasanai02.svg,#733b96
